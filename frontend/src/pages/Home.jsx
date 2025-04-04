@@ -9,7 +9,8 @@ const Home = () => {
     <div>
       <Navbar />
       <Hero />
-     
+      <JobListing />
+      <AppDownload />
     </div>
   )
 }
